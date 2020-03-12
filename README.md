@@ -13,10 +13,15 @@
 
 1) Intro til Java File I/O og Exceptions
 
-2) Biludlejning i
-- indlæs biler fra csv
-- udskriv biler til fil
-- RegNr-case 
+2) Hundekennel
+- indlæs hunde fra csv
+- udskriv bestemte hunde til fil
 
-3) Animal Farm 
+3) Katte
+- lav katte ud fra to filer
 
+4) Account ud fra fil
+
+5) Mandag - læse biler ind fra filer
+
+6) Nye grupper
