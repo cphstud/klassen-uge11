@@ -2,10 +2,15 @@
 ### torsdag d 12/3 - arbejder med biludlejning
 
 1) Intro til Zoom
+
 -- mode of conduct
+
 -- lyd og video
+
 -- annotations
+
 -- application
+
 -- breakout rooms
 
 ### fredag d 13/3 - Java og filer - I/O
