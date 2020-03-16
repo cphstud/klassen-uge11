@@ -1,0 +1,6 @@
+Dog: Dog{name='AMY', gender='Desexed Female', breed='Dobermann', colour='Red', suburb='WATERLOO CORNER', dogId=1, reference=20990} 
+
+Dog: Dog{name='RUFUS', gender='Desexed Male', breed='Dobermann', colour='Brown/Tan', suburb='WATERLOO CORNER', dogId=3, reference=25702} 
+
+Dog: Dog{name='E T', gender='Desexed Male', breed='Dobermann', colour='Grey/Tan', suburb='WATERLOO CORNER', dogId=4, reference=25703} 
+
